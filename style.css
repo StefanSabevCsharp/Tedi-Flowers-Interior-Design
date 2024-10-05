@@ -3588,9 +3588,9 @@ video {
   background-color: rgba(230, 104, 179, var(--tw-bg-opacity));
 }
 
-.bg-\[rgba\(246\2c 247\2c 249\2c 1\)\] {
+/* .bg-\[rgba\(246\2c 247\2c 249\2c 1\)\] {
   background-color: rgba(246,247,249,1);
-}
+} */
 
 .bg-\[rgba\(247\2c 139\2c 119\)\] {
   --tw-bg-opacity: 1;
